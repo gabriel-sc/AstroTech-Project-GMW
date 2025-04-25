@@ -4,3 +4,8 @@ Neste projeto a empresa AstroTech solicito que fosse realizado a criação de um
 3. Contato (Telefone)
 4. Contato Secudário (Telefone)
 5. Endereço (CEP, Rua, Número, Complemento)
+
+-------------------------------------------------------------
+
+Após a realização de uma reunião com a equipe foi designado a tarefa de construção de botões para o desenvolverdor Maico Klauss.
+Foi determinado com desenvolverdor que vai começar a realização do projeto as 21h56 do dia 24-04-2025.
