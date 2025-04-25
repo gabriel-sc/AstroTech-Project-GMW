@@ -1,0 +1,10 @@
+a principo tivemos problemas em nossa criacao de repositorios e branchs para desenvolver o aplicativo para o cliente que esta requisitando mais conteudo ao aplicativo
+depois que o projeto foi desenvolvido. Entao fomos instruidos com o planejamento da nossa equipe, que apontou pontos para comecar o projeto (pontos apontados pelo cliente).
+Apos avaliar o desenvolvimento feito foi constado que teremos que 
+
+
+
+-teremos que implementar a validacao de dados do nosso aplicativo 
+-melhorar a experiencia do usuario (autocomplete, validacao de apenas inteiros Parseint)
+-implementar filtros para remover dados que estao duplicados ou incorretos
+-nao receber texto onde sera colocado apenas numericos e nao receber numeros onde havera string apenas
