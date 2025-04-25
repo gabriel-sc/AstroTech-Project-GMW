@@ -9,3 +9,6 @@ Neste projeto a empresa AstroTech solicito que fosse realizado a criação de um
 
 Após a realização de uma reunião com a equipe foi designado a tarefa de construção de botões para o desenvolverdor Maico Klauss.
 Foi determinado com desenvolverdor que vai começar a realização do projeto as 21h56 do dia 24-04-2025.
+
+* Foi adicionado um botão para realização de cadastro.
+Agora sera solicitado que adicione os campos e funções com variáveis e constanstes para que o operador cadastre o cliente.
