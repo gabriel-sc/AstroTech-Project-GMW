@@ -1,0 +1,6 @@
+Neste projeto a empresa AstroTech solicito que fosse realizado a criação de uma aplicação para cadastro de clientes, aonde será necessário conter os seguintes elementos.
+1. Nome Completo
+2. CPF
+3. Contato (Telefone)
+4. Contato Secudário (Telefone)
+5. Endereço (CEP, Rua, Número, Complemento)
