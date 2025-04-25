@@ -1,10 +1,17 @@
-a principo tivemos problemas em nossa criacao de repositorios e branchs para desenvolver o aplicativo para o cliente que esta requisitando mais conteudo ao aplicativo
-depois que o projeto foi desenvolvido. Entao fomos instruidos com o planejamento da nossa equipe, que apontou pontos para comecar o projeto (pontos apontados pelo cliente).
-Apos avaliar o desenvolvimento feito foi constado que teremos que 
+Conclusao de AstroTech GMW
+
+    O projeto foi planejado devidamente e implementado dados tanto no planejamento quando no desenvolvimento e conclusao. Feito um planejamento onde o cliente requisitou 
+1. Nome Completo
+2. CPF
+3. Contato (Telefone)
+4. Contato Secudário (Telefone)
+5. Endereço (CEP, Rua, Número, Complemento).
+    Depois de analisado os requisitos foi feito a parte para desenvolver o codigo, onde ocorreu varias modificacoes tais como:
+1.Implementacao de dados
+2.melhor experiencia do cliente |(layout)
+3.filtros para remover dados incorretos
+4.Sepracao de numericos e strings
+    O programa ficou clean e responsivo, com validacao basica de CPF e e-email, com sua barra de procura de clientes funcional armazenando as informacoes em um localStorage.
+    
 
 
-
--teremos que implementar a validacao de dados do nosso aplicativo 
--melhorar a experiencia do usuario (autocomplete, validacao de apenas inteiros Parseint)
--implementar filtros para remover dados que estao duplicados ou incorretos
--nao receber texto onde sera colocado apenas numericos e nao receber numeros onde havera string apenas
