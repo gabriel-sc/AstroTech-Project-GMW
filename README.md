@@ -1,20 +1,25 @@
 Projeto de Cadastro de Clientes - AstroTech
+
 Este projeto foi desenvolvido com o objetivo de atender às necessidades da empresa AstroTech, criando uma aplicação funcional e intuitiva para cadastro de clientes.
 
 💡 Sobre o Projeto
+
 A aplicação permite que a equipe da AstroTech gerencie seus clientes de maneira eficiente, oferecendo funcionalidades de cadastro, consulta e atualização de informações.
 
 🚀 Tecnologias Utilizadas 
+
 HTML / JavaScript
 
 Git / GitHub / Vs Code
 
 💪 Desafios Enfrentados
+
 Durante o desenvolvimento, enfrentamos algumas dificuldades, especialmente no uso do GitHub para controle de versão. No entanto, com muita pesquisa, colaboração e persistência, conseguimos superar cada obstáculo.
 
 Graças ao trabalho em equipe e à troca constante de ideias, conseguimos corrigir os erros e evoluir continuamente o projeto.
 
 👨‍💻 Equipe de Desenvolvimento
+
 Welligton Speransa
 
 Gabriel Schio
